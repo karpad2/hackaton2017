@@ -1,0 +1,4 @@
+AuthUserFile C:/xampp/htdocs/hackaton/admin/.htpasswd
+AuthType Basic
+AuthName " Abandon All Hope, Ye Who Enter Here ~ Admin login "
+Require valid-user
